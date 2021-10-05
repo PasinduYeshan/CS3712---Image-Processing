@@ -1,0 +1,4 @@
+In nearest neighbor method more noise was visible than the bi-linear interpolation method
+
+
+Further resampled image size of nearest neighbor method (134 KB) is larger than the resampled image size of bi-linear interpolation method (127 KB).
